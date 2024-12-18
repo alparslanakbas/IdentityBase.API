@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Api", "Identity.Api\Identity.Api.csproj", "{032BB24A-62D2-4074-8C5F-AC80DB5D7A87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{FDC9C89E-7AB7-41CF-B8EF-F1547ABCE6BC}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032BB24A-62D2-4074-8C5F-AC80DB5D7A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032BB24A-62D2-4074-8C5F-AC80DB5D7A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032BB24A-62D2-4074-8C5F-AC80DB5D7A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032BB24A-62D2-4074-8C5F-AC80DB5D7A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
